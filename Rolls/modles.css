@@ -1,0 +1,208 @@
+
+h1{text-align: center;
+ font-size: 50px;
+ background-color: chartreuse;
+ border-radius: 80%;
+ border: 2px solid red;
+ box-shadow: 0px 8px 16px 0px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+text-transform: capitalize;}
+
+.over{
+    width: 50%;
+    display: flex;
+    margin-bottom: 5%;
+    
+}
+
+.image h2{width:50%;
+    background-color: black;
+    color:red;
+    text-align: center;
+    border-radius: 50%;
+    font-size: 50px;
+    box-shadow:0px 8px 16px 0px;
+}
+
+p{ width: 400px;
+background-color:yellow;
+box-shadow: 0px 8px  8px 0px black;
+padding: 20px;
+border-radius: 20px;
+margin: 20px;
+border: 3px solid black;
+font-size: large;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+h3{font-size: 30px;
+    margin: 50px;
+ background-color: yellowgreen;
+ margin-top: 50px;
+ padding: 20px;
+ border-radius: 40px;
+ margin: 20px 120px;
+ }
+
+ .class1{
+    width: 50%;
+    display: flex;
+    
+ }
+
+
+ .rolls{
+    background-color: black;
+    color: white;
+    height: 40px;
+    display: block;
+    
+}
+.royce{width: 400px;
+    height: 150px;
+    background-color:yellow;
+    box-shadow: 0px 8px  8px 0px black;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 30px;
+    margin-top: -4%;
+    border: 3px solid black;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+    /* h{font-size: 30px;
+            margin-right: 50px;
+            width: 150px;
+            height: 100px;
+         background-color: yellowgreen;
+         margin-top: 20px;
+         border-radius: 40px;
+         margin: 20px 50px;
+         border: 2px solid black;
+         box-shadow: 0px 16px 8px 0px;
+         } */
+
+         .class2{
+            display: flex;
+            
+         }
+      
+        .royce1{width: 400px;
+            height: 150px;
+            background-color:yellow;
+            box-shadow: 0px 8px  8px 0px black;
+            padding: 20px;
+            border-radius: 20px;
+            margin: 0px;
+            border: 3px solid black;
+            font-size: large;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+        
+           /* .h1{font-size: 30px;
+                    margin-right: 20px;
+                    width: 150px;
+                    height: 100px;
+                 background-color: yellowgreen;
+                 margin-top: 20px;
+                 border-radius: 40px;
+                 margin: 20px 50px;
+                 border:2px solid red;
+                 box-shadow:0px 10px 8px 0px;
+                 } */
+            
+              .image h3{font-size: 30px;
+                  margin: 20px;
+               background-color: yellowgreen;
+               margin-top: 20px;
+               padding: 20px;
+               border-radius: 40px;
+               margin: 20px 120px;
+               }
+
+                 .class3{
+                    display: flex;
+                    width: 50%;
+                 }
+                
+                .royce2{width: 500px;
+                    height: 130px;
+                    background-color:yellow;
+                    box-shadow: 0px 8px  8px 0px black;
+                    padding: 20px;
+                    border-radius: 20px;
+                    margin:0px;
+
+                    border: 3px solid black;
+                    font-size: large;
+                    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+                
+                   
+                    
+                    /* .container1{justify-content: center;
+                        text-align: center;
+                        }
+                        
+                        #carouselExampleControls{background-color: silver;}
+                        
+                        
+                        .container-fluid1{display: flex;
+                        background-color: black;
+                        color:aliceblue;
+                        font-weight: 200;}
+                        
+                        .container-fluid h1{text-transform: uppercase;}
+                        .container2{background-color: rgb(61, 66, 70);
+                        height: -50px;}
+                        
+                        
+                        .container2 h1{border: 4px solid yellow;}
+                        
+                        .over1{display:flex;
+                            color:white
+                        } */
+
+
+
+
+        
+                        
+
+
+         
+/* 
+ @media screen and(min-width:1200px) {.over
+    {
+        display: flex;
+    
+    }
+    
+ }
+
+ @media screen and(min-width:750px) and (max-width:1199px) {.image
+    {
+        display:flex;
+        width: 50%;
+        height: 50vh;
+        justify-content: center;
+        align-items:center;
+        
+    }
+        
+    
+    }
+    
+ 
+
+ @media screen and(max-width: 749px) {
+    .image{display:flex;
+        width: 50%;
+        height: 50vh;
+        justify-content: center;
+        align-items:center;
+        
+    }
+        
+    
+
+ }
+     */
+ 
